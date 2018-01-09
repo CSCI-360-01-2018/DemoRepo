@@ -12,7 +12,7 @@ Create a new text file named your LastName_FirstName.txt
 
 Add this file to your local branch
 
-Commit this file to your locl branch
+Commit this file to your local branch
 
 Push your local branch to your GitHub fork
 
